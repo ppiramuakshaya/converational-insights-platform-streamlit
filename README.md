@@ -27,17 +27,17 @@ The Conversational Insights Platform is a web application that processes audio a
    ```bash
    git clone https://github.com/yourusername/conversational-insights-platform.git
    cd conversational-insights-platform
-## Set Up a Virtual Environment
+## Set Up a Virtual Environment:
 
-### Create a Virtual Environment
+**Create a Virtual Environment:**
 
 Run the following command to create a virtual environment:
 
-```bash
+
 python -m venv venv
 
 
-##Activate a virtual environment
+## Activate a virtual environment
 Run the following command
 
 venv\Scripts\activate
