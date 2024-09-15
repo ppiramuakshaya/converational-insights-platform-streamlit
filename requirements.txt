@@ -1,0 +1,7 @@
+streamlit
+ffmpeg-python
+transformers
+torch
+nltk
+textblob
+vaderSentiment
